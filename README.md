@@ -10,6 +10,7 @@ This project is a simple HTML / JavaScript application to render food trucks ret
 
 This simple single-page application is hosted as an Azure Static Web App and can be found at [https://foodtrucks.codeshed.dev](https://foodtrucks.codeshed.dev).
 
+The application loads the map with a default start location of the Microsoft office in San Francisco, and an 800 metre range. This can be amended using the controls in the toolbar and reloading the map.
+
 ![San Francisco Food Trucks](https://foodtruckapistorage.blob.core.windows.net/images/foodtrucks.codeshed.dev.png)
 
-The application loads the map with a default start location of the Microsoft office in San Francisco, and an 800 metre range. This can be amended using the controls in the toolbar and reloading the map.
