@@ -12,5 +12,5 @@ This application is also hosted as an Azure Static Web App and can be found at [
 
 The default start location for the map the Microsoft office in San Francisco, with an 800 metre range specified. These parameters can be amended using the controls in the toolbar.
 
-![San Francisco Food Trucks](https://foodtruckapistorage.blob.core.windows.net/images/foodtrucks.codeshed.dev.png)
+![San Francisco Food Trucks](https://foodtruckapistorage.z22.web.core.windows.net/foodtrucks.codeshed.dev.png)
 
