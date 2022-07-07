@@ -8,9 +8,7 @@ I have built a simple REST API to import this data into an Azure CosmosDB and to
 
 This project is a simple JavaScript application to render food trucks returned from the API on a map using [leaflet.js](https://leafletjs.com/).
 
-This application is also hosted as an Azure Static Web App and can be found at [https://foodtrucks.codeshed.dev](https://foodtrucks.codeshed.dev).
-
 The default start location for the map the Microsoft office in San Francisco, with an 800 metre range specified. These parameters can be amended using the controls in the toolbar.
 
-![San Francisco Food Trucks](https://foodtruckapistorage.z22.web.core.windows.net/foodtrucks.codeshed.dev.png)
+![San Francisco Food Trucks](https://githubrepoimages.z33.web.core.windows.net/foodtrucks.codeshed.dev.png)
 
