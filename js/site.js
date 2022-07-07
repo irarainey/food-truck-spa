@@ -1,5 +1,5 @@
 ﻿// Set the base URL for the API
-var baseApiUrl = "https://food-truck-api.azurewebsites.net";
+var baseApiUrl = "https://host.com";
 
 // Set home centre point (Microsoft San Francisco office) and starting range
 var startLat = 37.7919346;
